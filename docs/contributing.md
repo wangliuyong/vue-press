@@ -12,4 +12,4 @@ description: 页面的描述
 [指南](/zh/guide/README.md)  
 [配置参考 > markdown.links](/zh/reference/config.md#links)  
 <!-- URL -->
-[GitHub](https://github.com) 
+[GitHub](https://github.com)
